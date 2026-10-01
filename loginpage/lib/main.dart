@@ -65,7 +65,7 @@ class _LoginPageState extends State<LoginPage> {
                     const SizedBox(height: 15),
 
                     const Text(
-                      "Welcome Back",
+                      "Campus Club",
                       style: TextStyle(
                         fontSize: 28,
                         fontWeight: FontWeight.bold,
